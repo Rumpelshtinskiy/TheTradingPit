@@ -1,0 +1,5 @@
+[submodule "./TheTradingPit/"]
+	url = git@github.com:Rumpelshtinskiy/TradinPit.git
+[submodule "TheTradingPit"]
+	path = TheTradingPit
+	url = git@github.com:Rumpelshtinskiy/TradinPit.git
